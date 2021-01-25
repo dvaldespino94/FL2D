@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"root"
+	],
+	"copyright": "Copyright © 2021, David Valdespino Pavon",
+	"dependencies": {
+		"fltk_swig": ">=0.0.0",
+	},
+	"description": "Fluid UI definition to D converter",
+	"license": "proprietary",
+	"name": "fl2d",
+	"stringImportPaths": [
+		"."
+	]
+}
